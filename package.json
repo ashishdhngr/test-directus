@@ -1,6 +1,6 @@
 {
   "name": "directus-starter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Directus template for railway app",
   "scripts": {
     "start": "npx directus start"
